@@ -7,6 +7,9 @@ a copy of showkey.el that's installable via use-package
 This is a copy of [showkey](https://www.emacswiki.org/emacs/ShowKey) by Drew Adams.
 I put it in its own git repo so that it could be installed via use-package.
 
+This minor mode provides a nice way to show what keys your pressing and what functions
+they're calling.  It's useful for demonstration purposes.
+
 ## Installation
 
 ```elisp
